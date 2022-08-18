@@ -15,12 +15,13 @@ https://docs.google.com/spreadsheets/d/1rcH_LMweupi1V7PUd8R6SEAvWDyIsm80Y7AgOMY-
 - Cloud computing
 
 
-### courses 
+### Current courses 
 
 - [ ] [HarvardX Tiny Machine Learning](https://www.edx.org/course/fundamentals-of-tinyml)
 - [ ] [Python Developer Full course](https://www.youtube.com/watch?v=D3OVRsEpVhA)
 - [ ] [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-- [ ] [Google Cloud Digital Leader Certification Course](https://youtu.be/UGRDM86MBIQ}
+- [ ] [Google Cloud Digital Leader Certification Course](https://youtu.be/UGRDM86MBIQ)
+- [ ] [Altschool Africa Cloud Engineering Course](https://altschoolafrica.com)
 
 ### Books to read
 - [ ] The Little Go Book
