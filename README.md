@@ -47,4 +47,4 @@ https://docs.google.com/spreadsheets/d/1rcH_LMweupi1V7PUd8R6SEAvWDyIsm80Y7AgOMY-
 
 Attended my first tech event in Kigali \
 Currently enrolled in a Cloud Engineering program \
-Learning how to embed ML programs on motherboards using TinyML \
+Learning how to embed ML programs on motherboards using TinyML 
