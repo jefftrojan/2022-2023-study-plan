@@ -34,6 +34,7 @@ https://docs.google.com/spreadsheets/d/1rcH_LMweupi1V7PUd8R6SEAvWDyIsm80Y7AgOMY-
 - [ ] Create  a Ansible Playbook
 - [ ] Create and deploy a phishing site detector
 - [ ] Embed a board with a program using TinyML
+- [ ] Contribute to the ALU's Opensource website Project
 
 ### Certifcations To get 
 - [ ] HarvardX Tiny Machine Learning Professional Certificate
