@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1rcH_LMweupi1V7PUd8R6SEAvWDyIsm80Y7AgOMY-
 - Python
 - Machine Learning and Data Engineering
 - Low level programming
-- Web development
+- Web development and javascripting
 - Golang
 - Containerization
 - Cloud computing
